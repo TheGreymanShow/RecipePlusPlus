@@ -1,0 +1,98 @@
+.background1{
+  margin:0px
+  left:0px;
+  padding: 0px;
+  font: 1em "Open Sans",sans-sherif;
+  background-image: url("recipes/paneer2.jpg");
+  background-position:center center;;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+.background2{
+  margin:0px
+  left:0px;
+  padding: 0px;
+  font: 1em "Open Sans",sans-sherif;
+  background-image: url("recipes/kebabs2.jpg");
+  background-position:center center;;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+.background3{
+  margin:0px
+  left:0px;
+  padding: 0px;
+  font: 1em "Open Sans",sans-sherif;
+  background-image: url("recipes/biryani3.jpg");
+  background-position:center center;;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+.background4{
+  margin:0px
+  left:0px;
+  padding: 0px;
+  font: 1em "Open Sans",sans-sherif;
+  background-image: url("recipes/pizza3.jpg");
+  background-position:center center;;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+.background5{
+  margin:0px
+  left:0px;
+  padding: 0px;
+  font: 1em "Open Sans",sans-sherif;
+  background-image: url("recipes/zukini.jpg");
+  background-position:center center;;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+h1{
+  color: #e0e0e0;
+  /*text-shadow: 3px 1px 10px #000;*/
+  left:50%;
+  transform: translateX(-50%);
+  position: absolute;
+  text-align: center;
+  font-family: Ikaros;
+  font-size: 72px;
+}
+
+hr{
+  opacity:0.5;
+}
+
+.content{
+  position: absolute;
+  width:100%;
+  top: 85%;
+  left:0;
+  color: white;
+  background-color: #212121;
+  opacity:0.8;
+}
+
+.inner{
+  width: 80%;
+  margin:0 auto;
+  padding-top: 5px;
+  padding-bottom: 45px;
+  line-height: 170%;
+}
+
+.pre{
+  font-family: Open Sans;
+  font-size: 24px;
+  color:white;
+}
